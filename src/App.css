@@ -49,3 +49,18 @@
   }
 }
 
+@media screen and (min-width: 40em) and (max-width: 63.9375em) {
+  input {
+    min-width: 350px;
+  }
+
+  .singleTodo {
+    min-width: 400px;
+  }
+
+  .singleTodo {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
